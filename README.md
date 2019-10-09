@@ -1,4 +1,4 @@
-# To-know-the-week-day-of-your-birth-in-C-
+# To-know-the-week-day-of-your-birth-in-C++
 // Please enter your birthday in this
 //     format(including spaces):
 //            DD MM YYYY 
